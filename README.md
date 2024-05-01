@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Godiwal</h1>
 <h3 align="center">I believe in Automation & I am very passionate for DevOps tool leaning.</h3>
 
-<img align="right" alt="400" src="https://github.com/sunnydevops2022/sunnydevops2022/blob/main/codding_gi_image.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/sunnydevops2022/sunnydevops2022/blob/main/codding_gi_image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnydevops2022&label=Profile%20views&color=0e75b6&style=flat" alt="sunnydevops2022" /> </p>
 
