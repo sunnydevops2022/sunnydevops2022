@@ -1,6 +1,6 @@
 ![logo](https://github.com/sunnydevops2022/sunnydevops2022/blob/main/backgroud_image_for_linkdin_live.jpg)
 <h1 align="center">Hi 👋, I'm Sunny Godiwal</h1>
-<h3 align="center">I believe in Automation & I am very passionate for DevOps tool leaning.</h3>
+<h3 align="center">I believe in Automation & I am very passionate for DevOps tool learning.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/sunnydevops2022/sunnydevops2022/blob/main/codding_gi_image.gif">
 
